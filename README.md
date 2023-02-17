@@ -95,7 +95,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/indrajithek/) - indrajith@ieee.org
+Indrajith Ekanayake - [LinkedIn](https://www.linkedin.com/in/indrajithek/) - indrajith@ieee.org
 
 Project Link: [https://github.com/indrajithekanayake/Srilanka-IT-ecosystem-survey](https://github.com/indrajithekanayake/Srilanka-IT-ecosystem-survey)
 
