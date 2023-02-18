@@ -18,7 +18,7 @@
 
 As someone working in the Sri Lankan IT sector, I thought it would be interesting to do a completely anonymous, free survey that anyone working in the IT industry can participate in. I will take the aggregated results and publish them in my upcoming posts. Then we can really see how our local IT industry is perceived by its employees. Please only answer this if you’re currently working in the IT industry. **This isn’t to gather views from uni students and first-time job seekers.**
 
-The total size of IT, BPM industry is 113,000(SLASSCOM, 2019). I have near 12k network on LinkedIn, so I belive I'm connected to at least 1/20th of Sri Lanka IT ecosystem. So will do this as a volunteery survay on my LinkedIn with the purpose of helping the commiunity. At the end of this surway will release small report by analyzing the stats extracted through LinkedIn API.
+The total size of IT, BPM industry is 113,000(SLASSCOM, 2019). I have over 13k network on LinkedIn, so I belive I'm connected to at least 1/20th of Sri Lanka IT ecosystem. So will do this as a volunteery survay on my LinkedIn with the purpose of helping the commiunity. At the end of this surway will release small report by analyzing the stats extracted through LinkedIn API.
 
 Here will be the questions:
 
